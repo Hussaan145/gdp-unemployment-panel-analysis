@@ -1,11 +1,5 @@
 # GDP–Unemployment Panel Analysis (R)
 
-## 📌 Objective
-
-Analyze the impact of unemployment and other macroeconomic variables on GDP growth across developing countries using panel data econometrics.
-
----
-
 ## 📊 Dataset
 
 * Panel data of 38 developing countries
